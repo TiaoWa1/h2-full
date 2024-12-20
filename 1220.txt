@@ -1,0 +1,10 @@
+Spring Initializr Java Support
+Extension Pack for Java
+https://www.oracle.com/tw/java/technologies/downloads/#jdk21-windows
+https://maven.apache.org/download.cgi 
+
+進階系統設定
+>使用者變數新增 JAVA_HOME C:\Program Files\Java\jdk-21
+>編輯系統變數Path 瀏覽 找到maven的bin
+
+>spring create maven project
