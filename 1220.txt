@@ -8,3 +8,8 @@ https://maven.apache.org/download.cgi
 >編輯系統變數Path 瀏覽 找到maven的bin
 
 >spring create maven project
+
+npx create-react-app frontend
+npm install axios react-router-dom bootstrap
+https://codepen.io/pen/
+https://getbootstrap.com/docs/5.3/getting-started/introduction/
